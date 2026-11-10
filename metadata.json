@@ -1,0 +1,6 @@
+{
+  "name": "Abdullah Quran Academy",
+  "description": "Learn the Holy Quran Online with Expert Tutors. International Quran teaching platform based in Lahore, Pakistan connecting students worldwide with dedicated Quran tutors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
